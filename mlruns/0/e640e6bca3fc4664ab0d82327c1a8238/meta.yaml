@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ghofrane/MLOPsProject_ge/MLOPsProject/mlruns/0/e640e6bca3fc4664ab0d82327c1a8238/artifacts
+end_time: 1766613398812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e640e6bca3fc4664ab0d82327c1a8238
+run_name: thundering-horse-979
+run_uuid: e640e6bca3fc4664ab0d82327c1a8238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766613380640
+status: 3
+tags: []
+user_id: Ghofrane

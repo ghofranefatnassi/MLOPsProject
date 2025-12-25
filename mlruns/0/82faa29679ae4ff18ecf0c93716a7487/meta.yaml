@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ghofrane/MLOPsProject_ge/MLOPsProject/mlruns/0/82faa29679ae4ff18ecf0c93716a7487/artifacts
+end_time: 1766606843466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82faa29679ae4ff18ecf0c93716a7487
+run_name: colorful-tern-965
+run_uuid: 82faa29679ae4ff18ecf0c93716a7487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766606825179
+status: 4
+tags: []
+user_id: Ghofrane

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ghofrane/MLOPsProject_ge/MLOPsProject/mlruns/0/18e3db8865db4504bace0ff28094351f/artifacts
+end_time: 1766586084792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18e3db8865db4504bace0ff28094351f
+run_name: amusing-tern-269
+run_uuid: 18e3db8865db4504bace0ff28094351f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766586023064
+status: 4
+tags: []
+user_id: Ghofrane
